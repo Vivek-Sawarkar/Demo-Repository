@@ -1,3 +1,7 @@
 this is second folder
 
-Demo-RepositoryDemo-Repository
+
+Demo-RepositoryDemo-Repositor
+int a =10;
+int b=020;
+
